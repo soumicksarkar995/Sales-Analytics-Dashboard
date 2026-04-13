@@ -47,3 +47,45 @@ The goal is to help businesses make **data-driven decisions** using clear and in
 ---
 
 ## 📂 Project Structure  
+
+---
+
+## 📷 Dashboard Preview  
+_Add your screenshots here after uploading to GitHub_
+
+---
+
+## ⚠️ Note  
+- Some visuals (like Map) may require **admin permissions or updates** in Power BI Service.  
+- If you see a visual warning, contact your Power BI admin.
+
+---
+
+## ▶️ How to Use  
+
+1. Download the `.pbix` file  
+2. Open it in Power BI Desktop  
+3. Refresh the data if needed  
+4. Use filters (Year, Country, Product Line) to explore insights  
+
+---
+
+## 📊 Key Insights  
+- Medium deal size generates the highest revenue  
+- Classic Cars is the top-performing product line  
+- USA contributes the highest sales  
+- Sales show slight fluctuation over time  
+
+---
+
+## 🤝 Contributing  
+Feel free to fork this repository and enhance the dashboard or add new features.
+
+---
+
+## 📬 Contact  
+
+**Soumick Sarkar**  
+www.linkedin.com/in/soumick-sarkar-250089232
+
+---
